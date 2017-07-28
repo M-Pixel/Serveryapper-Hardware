@@ -1,0 +1,19 @@
+{
+  "name": "@m-pixel/serveryapper-hardware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "conkie-stats": "^1.3.14",
+    "mailgun-js": "^0.7.13"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Max Pixel",
+  "license": "GPL-3.0"
+}

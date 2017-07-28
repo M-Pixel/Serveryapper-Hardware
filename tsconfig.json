@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"module": "commonjs",
+		"noImplicitAny": true,
+		"removeComments": true,
+		"pretty": false,
+		"target": "es6",
+		"allowJs": false,
+		"lib": [
+			"es6"
+		]
+	},
+	"compileOnSave": true
+}
